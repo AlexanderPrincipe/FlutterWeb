@@ -1,7 +1,7 @@
 
 # Documentation Flutter Web
 
-get stared: https://flutter.dev/docs/get-started/web
+get started: https://flutter.dev/docs/get-started/web
 
 # flutterWeb1
 
